@@ -1,0 +1,5 @@
+level: 1
+type: None
+music: 100
+sound: 100
+fullscreen: 0
